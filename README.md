@@ -1,2 +1,2 @@
 # sigma-web
-some mini frontend basic
+Netflix clone using html and CSS 
